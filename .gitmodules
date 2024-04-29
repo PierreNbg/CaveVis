@@ -13,3 +13,6 @@
 [submodule "visionaray"]
 	path = visionaray
 	url = https://github.com/szellmann/visionaray.git
+[submodule "deskvox"]
+	path = deskvox
+	url = https://github.com/deskvox/deskvox.git
