@@ -1,0 +1,15 @@
+[submodule "anari-ospray"]
+	path = anari-ospray
+	url = https://github.com/ospray/anari-ospray
+[submodule "ANARI-SDK"]
+	path = ANARI-SDK
+	url = https://github.com/KhronosGroup/ANARI-SDK.git
+[submodule "anari-visionaray"]
+	path = anari-visionaray
+	url = https://github.com/szellmann/anari-visionaray.git
+[submodule "anari-volume-viewer"]
+	path = anari-volume-viewer
+	url = https://github.com/vtvamr/anari-volume-viewer.git
+[submodule "visionaray"]
+	path = visionaray
+	url = https://github.com/szellmann/visionaray.git
